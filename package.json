@@ -15,7 +15,7 @@
     "dependencies": {
         "dotenv": "^2.0.0",
         "express": "^4.14.0",
-        "mongodb": "^2.2.16",
+        "mongodb": "^3.6.1",
         "validatorjs": "^3.11.0"
     }
 }
